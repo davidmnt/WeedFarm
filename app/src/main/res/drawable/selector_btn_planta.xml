@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Estado cuando el botón está presionado -->
-    <item android:drawable="@drawable/planta" android:state_pressed="true"/>
+    <item android:drawable="@drawable/planta_con_fondo_luminoso_mas_pequenia" android:state_pressed="true"/>
     <!-- Predeterminado cuando no se pulsa la imagen -->
-    <item android:drawable="@drawable/planta"/>
+    <item android:drawable="@drawable/planta_con_fondo_luminoso"/>
 </selector>

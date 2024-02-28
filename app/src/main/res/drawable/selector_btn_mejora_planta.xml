@@ -2,8 +2,8 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- Estado cuando el botón está presionado -->
-    <item android:drawable="@drawable/tres_puntos" android:state_pressed="true"/>
+    <item android:drawable="@drawable/desert_eagle_mejoras" android:state_pressed="true"/>
     <!-- Predeterminado cuando no se pulsa la imagen -->
-    <item android:drawable="@drawable/tres_puntos"/>
+    <item android:drawable="@drawable/desert_eagle_mejoras"/>
 
 </selector>
